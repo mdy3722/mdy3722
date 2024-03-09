@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Never GiveUp 👋
+Let's CODING!
 <!--
 **mdy3722/mdy3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
