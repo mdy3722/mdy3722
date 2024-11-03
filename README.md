@@ -1,16 +1,16 @@
-### Never GiveUp 👋
-Let's CODING!
-<!--
-**mdy3722/mdy3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm [Your Name]
 
-Here are some ideas to get you started:
+**Aspiring Backend Developer | Passionate about Web Development and Data Management**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub page! I'm a backend-focused developer currently studying and working on various projects to deepen my expertise in server-side development. I enjoy creating efficient and scalable web applications, and I am particularly interested in improving my skills in database management and cloud computing.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks**: Django, Spring Boot, Node.js
+- **Databases**: MySQL, PostgreSQL
+- **Cloud**: AWS EC2
+- **Other Tools**: Git, Docker
+
+---
