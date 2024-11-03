@@ -2,7 +2,7 @@
 
 **<span style="color:blue">Aspiring Backend Developer</span> | Passionate about <span style="color:green">Web Development</span> and <span style="color:purple">Data Management</span>**
 
-관심 분야 : 백엔드 개발, 서버 관리, 전산 처리, 정보보안
+관심 분야 : 백엔드 개발, 서버 관리, 전산 처리, 정보보안/n
 주 언어 : python, django 프레임워크
 공부 기록은 노션으로, 실습은 깃허브로 관리합니다.
 AI 기술이 발전함에 따라 AI 기술과 저의 개발 역량을 조화시켜 멋진 서비스를 만들고 싶습니다!
