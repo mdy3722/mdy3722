@@ -12,3 +12,5 @@ Welcome to my GitHub page! I'm a backend-focused developer currently studying an
 - **Databases**: MySQL, PostgreSQL
 - **Cloud**: AWS EC2
 - **Other Tools**: Git, Docker
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722)](https://github.com/anuraghazra/github-readme-stats)
