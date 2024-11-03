@@ -7,6 +7,7 @@ Welcome to my GitHub page! I'm a backend-focused developer currently studying an
 ---
 
 ### 🛠️ <span style="color:#ffa500">Tech Stack</span>
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 - **Languages**: Python, JavaScript, SQL
 - **Frameworks**: Django, Spring Boot, Node.js
 - **Databases**: MySQL, PostgreSQL
