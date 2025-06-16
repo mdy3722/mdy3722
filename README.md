@@ -1,6 +1,6 @@
 # 👋 안녕하세요! 문덕영입니다.
 
-**<span style="color:blue">Spiring Backend Developer</span> | Passionate, Cooperation, Positive !!**
+**<span style="color:blue"> Backend Developer </span> | Passionate, Cooperation, Positive !!**
 
 관심 분야 : 백엔드 개발, 서버 관리, 전산 처리, 정보보안<br>
 주 언어 : python, django 프레임워크<br>
