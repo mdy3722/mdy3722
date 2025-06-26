@@ -1,14 +1,17 @@
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=System.out.println(%22Hello,%20co-deok!%22);&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
-# 👋 안녕하세요! 문덕영입니다.
+## 👋 About Me
 
-**<span style="color:blue"> Backend Developer </span> | Passionate, Cooperation, Positive !!**
+백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
+기술 구현뿐 아니라, 운영과 협업까지 고려한 개발을 지향합니다.  
+단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
 
-관심 분야 : 백엔드 개발, 서버 관리, 전산 처리, 정보보안<br>
-주 언어 : python, django 프레임워크<br>
-공부 기록은 노션으로, 실습은 깃허브로 관리합니다.<br>
-AI 기술이 발전함에 따라 AI 기술과 저의 개발 역량을 조화시켜 멋진 서비스를 만들고 싶습니다!<br>
+<br/>
+
+- 사용 기술: **Spring Boot**, **Django**
+- 관심 분야: **백엔드 개발**, **서버 운영 관리**, **생성형 AI 활용**
+
 
 ---
 
