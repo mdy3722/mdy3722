@@ -57,4 +57,4 @@ AI 기술이 발전함에 따라 AI 기술과 저의 개발 역량을 조화시�
 </p>
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722&layout=compact)](https://github.com/mdy3722/github-readme-stats)
