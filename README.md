@@ -10,12 +10,12 @@
 **Interest**: Backend Development, Server Operations, Generative AI  
 **Email**: mdy3722@gmail.com 
 
-##### <span style="color:#2A5298; font-size:20px; font-weight:bold">Education</span> 
+<img src="https://img.shields.io/badge/Education-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
 \- 홍익대학교 컴퓨터공학과 (2020.03 ~ 2026.02 예정)  
 \- 멋쟁이사자처럼 12기 백엔드 트랙 (2024.03 ~ 2024.12)  
 \- 코드잇 부스트 1기 백엔드 과정 (2024.03 ~ 2024.07)
 
-##### <span style="color:#2A5298; font-size:20px; font-weight:bold">Tech Stack</span>
+<img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 ###### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 ###### Database / Infra
@@ -23,7 +23,7 @@
 ###### DevOps / Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-##### <span style="color:#2A5298; font-size:20px; font-weight:bold">Github Status</span>
+<img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=blueberry)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdy3722&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&title=Commit,PR,Issue,Repositories)](https://github.com/mdy3722)
 [![mdy3722's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdy3722&theme=github-compact&hide_border=true)](https://github.com/mdy3722)
