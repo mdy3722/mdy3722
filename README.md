@@ -59,6 +59,13 @@
 ---
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298&color=32CD32&logo=github&logoColor=white"/>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=blueberry&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=blueberry&hide_border=true"/>
-</p>
+<div style="margin-top: 40px;">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-1E90FF?style=flat&logo=github&logoColor=white" />
+</div>
+
+<div style="margin-top: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=co-deok&show_icons=true&theme=dark&rank_icon=percentile" 
+    style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" 
+  />
+</div>
