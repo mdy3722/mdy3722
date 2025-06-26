@@ -48,10 +48,15 @@
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
+<!-- GitHub 활동 그래프 -->
+<img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=default" height="160"/>
+
+<!-- 언어 사용량 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722&layout=compact" height="160"/>
+
+<!-- 커밋 스트릭 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default" height="160"/>
-</p> <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default"/>
-</p>
+
 
 
 
