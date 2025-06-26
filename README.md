@@ -58,18 +58,18 @@
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub%20Stats-1E90FF?style=flat&logo=github&logoColor=white" />
+<div style="margin-top:40px;">
+  <img src="https://img.shields.io/badge/GITHUB%20STATS-1E90FF?style=flat&logo=github&logoColor=white" />
+  <span style="background-color:#32CD32; display:inline-block; width:16px; height:16px; border-radius:2px; margin-left:4px;"></span>
+</div>
 
-<div style="margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=co-deok&show_icons=true&theme=dark&rank_icon=percentile" 
-    style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" 
+    width="420"
   />
-</div>
-<div style="margin-top: 20px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=co-deok&theme=dark" 
-    style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" 
+    width="420"
   />
 </div>
-
