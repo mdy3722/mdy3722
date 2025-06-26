@@ -58,18 +58,10 @@
 
 ---
 
-<div style="margin-top:40px;">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-1E90FF?style=flat&logo=github&logoColor=white" />
-  <span style="background-color:#32CD32; display:inline-block; width:16px; height:16px; border-radius:2px; margin-left:4px;"></span>
+<img src="https://img.shields.io/badge/GitHub_Stats-232?style=for-the-badge&logo=github&logoColor=white&color=181717" />
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=dark&rank_icon=percentile" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=dark" width="420" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=co-deok&show_icons=true&theme=dark&rank_icon=percentile" 
-    width="420"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=co-deok&theme=dark" 
-    width="420"
-  />
-</div>
