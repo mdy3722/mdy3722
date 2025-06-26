@@ -1,6 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0F2027,203A43,2C5364&height=200&section=header&text=Hello%20I'm%20MoonDY&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=System.out.println(%22Hello,%20co-deok!%22);&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
 # 👋 안녕하세요! 문덕영입니다.
 
