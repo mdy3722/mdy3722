@@ -7,9 +7,9 @@
 기술 구현뿐 아니라 운영과 협업까지 고려한 개발을 지향하며,  
 단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
 
-**Main Tech**: Spring Boot, Django  
-**Interest**: Backend Development, Server Operations, Generative AI  
-**Email**: mdy3722@gmail.com 
+**Main Tech:** Spring Boot, Django  
+**Interest:** Backend Development, Server Operations, Generative AI  
+**Email:** [mdy3722@gmail.com](mailto:mdy3722@gmail.com)
 
 <img src="https://img.shields.io/badge/Education-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
 
@@ -19,16 +19,38 @@
 
 <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-###### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-###### Database / Infra
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-###### DevOps / Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+#### <span style="color:#2A5298"><strong>🧠 Backend</strong></span>
+<span>
+  <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/>
+</span>
+
+#### <span style="color:#2A5298"><strong>🗄️ Database / Infra</strong></span>
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-%2398BF64?style=flat&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=amazon-rds&logoColor=white"/>
+</span>
+
+#### <span style="color:#2A5298"><strong>⚙️ DevOps / Tools</strong></span>
+<span>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232C8EBB?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white"/>
+</span>
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=default&hide_rank=true"/>
+</p> <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default"/>
 </p>
 
