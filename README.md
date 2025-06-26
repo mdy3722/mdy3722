@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=220&section=header&text=System.out.println(%22Hello,%20co-deok!%22);&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 
-<img src="https://img.shields.io/badge/About%20Me--1e3c72?style=flat-square&labelColor=1e3c72&logoColor=white"/>
+<img src="https://img.shields.io/badge/About_Me-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
 백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
 기술 구현뿐 아니라 운영과 협업까지 고려한 개발을 지향하며,  
 단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
