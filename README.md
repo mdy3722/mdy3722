@@ -28,10 +28,9 @@
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=blueberry)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdy3722&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&title=Commit,PR,Issue,Repositories)](https://github.com/mdy3722)
-[![mdy3722's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdy3722&theme=github-compact&hide_border=true)](https://github.com/mdy3722)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default"/>
+</p>
 
 
 
