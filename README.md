@@ -4,14 +4,22 @@
 ---
 
 ## 👋 About Me
-
-백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
-기술 구현뿐 아니라, 운영과 협업까지 고려한 개발을 지향합니다.  
+**백엔드 개발**을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
+기술 구현뿐 아니라, **운영과 협업**까지 고려한 개발을 지향합니다.  
 단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
 
-- 🛠️ 사용 기술: **Spring Boot**, **Django**  
-- 🔍 관심 분야: **백엔드 개발**, **서버 운영 관리**, **생성형 AI 활용**
+- 🛠️ Main Tech: **Spring Boot**, **Django**  
+- 🔍 Interest: **백엔드 개발**, **서버 운영 관리**, **생성형 AI 활용**
+- 📧 Email: mdy3722@gmail.com
+  
+---
 
+## 🎓 Education
+
+- 홍익대학교 컴퓨터공학과 (2020.03 ~ 2026.02 예정)  
+- 멋쟁이사자처럼 12기 백엔드 코스 (2024.03~2024.12)  
+- 코드잇 부스트 1기 백엔드 과정 (2024.03~2024.07)
+  
 ---
 
 ## 🧰 Tech Stack
@@ -65,25 +73,11 @@
 
 ---
 
-## 🎓 Education
-
-- 홍익대학교 컴퓨터공학과 (2020.03 ~ 2026.02 예정)  
-- 멋쟁이사자처럼 12기 백엔드 개발자 (2024)  
-- 코드잇 부스트 1기 수료 (2024)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdy3722&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdy3722&theme=react-dark&bg_color=0d1117&hide_border=true"/>
 </p>
 
----
-
-## 🔗 Links
-
-- GitHub: [github.com/mdy3722](https://github.com/mdy3722)  
-- Email: mdy3722@gmail.com
