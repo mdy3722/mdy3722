@@ -6,6 +6,7 @@
 백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
 기술 구현뿐 아니라 운영과 협업까지 고려한 개발을 지향하며,  
 단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
+
 <span style="color:#1E90FF"><strong>Main Tech:</strong></span> Spring Boot, Django  
 <span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI  
 <span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
@@ -21,6 +22,7 @@
 <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
 <p><span style="color:#2A5298">Backend</span></p>
+
 <span>
   <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -29,6 +31,7 @@
 </span>
 
 <p><span style="color:#2A5298">Database / Infra</span></p>
+
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -39,6 +42,7 @@
 </span>
 
 <p><span style="color:#2A5298">DevOps / Tools</span></p>
+
 <span>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white"/>
@@ -50,9 +54,7 @@
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-<span style="color:#1E90FF"><strong>Main Tech:</strong></span> Spring Boot, Django  
-<span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI  
-<span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
+
 
 
 
