@@ -64,6 +64,7 @@
     src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=react&rank_icon=percentile&border_radius=10&hide_border=false"
     style="width: 100%; max-width: 100%; height: auto;"
   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=co-deok&layout=compact&theme=react" />
 </p>
 
 
