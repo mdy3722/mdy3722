@@ -58,7 +58,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub%20Stats-%20-%231e3c72?style=for-the-badge&labelColor=2A5298&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298&color=3CB371&logo=github&logoColor=white"/>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=blueberry&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=blueberry&hide_border=true"/>
 </p>
