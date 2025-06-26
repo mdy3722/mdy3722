@@ -1,7 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Hello%20I'm%20MoonDY&fontSize=40&animation=twinkling&fontColor=ffffff"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hello%20I'm%20MoonDY&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 # 👋 안녕하세요! 문덕영입니다.
 
 **<span style="color:blue"> Backend Developer </span> | Passionate, Cooperation, Positive !!**
