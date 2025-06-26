@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-#### <span style="color:#2A5298"><strong>🧠 Backend</strong></span>
+<span style="color:#2A5298">Backend</span>
 <span>
   <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/>
 </span>
 
-#### <span style="color:#2A5298"><strong>🗄️ Database / Infra</strong></span>
+<span style="color:#2A5298">Database / Infra</span>
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=amazon-rds&logoColor=white"/>
 </span>
 
-#### <span style="color:#2A5298"><strong>⚙️ DevOps / Tools</strong></span>
+<span style="color:#2A5298">DevOps / Tools</span>
 <span>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white"/>
@@ -48,8 +48,7 @@
 
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=default&hide_rank=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default" height="160"/>
 </p> <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default"/>
 </p>
