@@ -58,10 +58,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298&color=32CD32&logo=github&logoColor=white"/>
-<div style="margin-top: 40px;">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-1E90FF?style=flat&logo=github&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/GitHub%20Stats-1E90FF?style=flat&logo=github&logoColor=white" />
 
 <div style="margin-top: 20px;">
   <img 
@@ -69,3 +66,10 @@
     style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" 
   />
 </div>
+<div style="margin-top: 20px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=co-deok&theme=dark" 
+    style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" 
+  />
+</div>
+
