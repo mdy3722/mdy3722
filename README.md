@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <span style="color:#1E90FF"><strong>Main Tech:</strong></span> Spring Boot, Django<br/>
+  <span style="color:#1E90FF"><strong>Main Tech:</strong></span> <span style="color:#2A5298">Spring Boot</span>, Django<br/>
   <span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI<br/>
   <span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
 </p>
@@ -34,7 +34,7 @@
 <!-- Tech Stack -->
 <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-<span style="color:#2A5298">Spring Boot</span>
+**Spring Boot**
 <p>
   <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
