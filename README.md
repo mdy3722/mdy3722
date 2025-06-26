@@ -29,9 +29,8 @@
 </ul>
 
 <!-- Tech Stack -->
-<p style="margin-top:40px;">
-  <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
-</p>
+<br><br>
+<img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
 <p><strong style="color:#2A5298; font-size:10px;">🔹 Backend</strong></p>
 <p>
