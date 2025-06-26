@@ -6,10 +6,10 @@
 백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.  
 기술 구현뿐 아니라 운영과 협업까지 고려한 개발을 지향하며,  
 단단한 백엔드를 바탕으로 확장성과 안정성을 만드는 데 관심이 많습니다.
+<span style="color:#1E90FF"><strong>Main Tech:</strong></span> Spring Boot, Django  
+<span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI  
+<span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
 
-**Main Tech:** Spring Boot, Django  
-**Interest:** Backend Development, Server Operations, Generative AI  
-**Email:** [mdy3722@gmail.com](mailto:mdy3722@gmail.com)
 
 <img src="https://img.shields.io/badge/Education-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
 
@@ -17,9 +17,10 @@
 \- 멋쟁이사자처럼 12기 백엔드 트랙 (2024.03 ~ 2024.12)  
 \- 코드잇 부스트 1기 백엔드 과정 (2024.03 ~ 2024.07)
 
+
 <img src="https://img.shields.io/badge/Tech%20Stack-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-<span style="color:#2A5298">Backend</span>
+<p><span style="color:#2A5298">Backend</span></p>
 <span>
   <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/>
 </span>
 
-<span style="color:#2A5298">Database / Infra</span>
+<p><span style="color:#2A5298">Database / Infra</span></p>
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=amazon-rds&logoColor=white"/>
 </span>
 
-<span style="color:#2A5298">DevOps / Tools</span>
+<p><span style="color:#2A5298">DevOps / Tools</span></p>
 <span>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white"/>
@@ -46,16 +47,13 @@
   <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white"/>
 </span>
 
+
 <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%202A5298?style=for-the-badge&labelColor=2A5298"/>
 
-<!-- GitHub 활동 그래프 -->
-<img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=default" height="160"/>
+<span style="color:#1E90FF"><strong>Main Tech:</strong></span> Spring Boot, Django  
+<span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI  
+<span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
 
-<!-- 언어 사용량 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722&layout=compact" height="160"/>
-
-<!-- 커밋 스트릭 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=default" height="160"/>
 
 
 
