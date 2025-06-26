@@ -19,7 +19,7 @@
 </p>
 
 <!-- Education -->
-<p style="margin-top:40px;">
+<p style="margin-top:100px;">
   <img src="https://img.shields.io/badge/Education-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logo=book&logoColor=white"/>
 </p>
 
