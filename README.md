@@ -2,10 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=220&section=header&text=System.out.println(%22Hello,%20co-deok!%22);&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 
 <!-- About Me -->
-<p style="margin-top:40px;">
-  <img src="https://img.shields.io/badge/About_Me-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
-</p>
-
+<img src="https://img.shields.io/badge/About_Me-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logoColor=white"/>
 <p>
 백엔드 개발을 중심으로 서비스의 흐름과 구조를 함께 고민합니다.<br/>
 기술 구현뿐 아니라 운영과 협업까지 고려한 개발을 지향하며,<br/>
@@ -13,7 +10,7 @@
 </p>
 
 <p>
-  <span style="color:#1E90FF"><strong>Main Tech:</strong></span> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/>
+  <span style="color:#1E90FF"><strong>Main Tech:</strong></span> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/> <br/>
   <span style="color:#32CD32"><strong>Interest:</strong></span> Backend Dev, Server Ops, Generative AI<br/>
   <span style="color:#FF8C00"><strong>Email:</strong></span> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com</a>
 </p>
@@ -61,10 +58,7 @@
 
 ---
 
-<p style="margin-top:40px;">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-%20-%231e3c72?style=for-the-badge&labelColor=1e3c72&logo=github&logoColor=white"/>
-</p>
-
+<img src="https://img.shields.io/badge/GitHub%20Stats-%20-%231e3c72?style=for-the-badge&labelColor=2A5298&logo=github&logoColor=white"/>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=blueberry&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdy3722&theme=blueberry&hide_border=true"/>
 </p>
