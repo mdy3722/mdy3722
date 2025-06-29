@@ -33,7 +33,7 @@
 
 <p><strong style="color:#2A5298; font-size:10px;">🔹 Backend </strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%235C2D91?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/AWS%20S3-%2398BF64?style=flat&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=amazon-rds&logoColor=white"/>
 </p>
-<p><strong style="color:#2A5298; font-size:10px;">🔹 DevOps&ETC / Tools</strong></p>
+<p><strong style="color:#2A5298; font-size:10px;">🔹 DevOps / Tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white"/>
