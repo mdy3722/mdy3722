@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=flat&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-%2398BF64?style=flat&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=flat&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-%2398BF64?style=flat&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-%232782BE?style=flat&logo=aws&logoColor=white"/>
 </p>
 <p><strong style="color:#2A5298; font-size:10px;">🔹 DevOps / Tools</strong></p>
 <p>
