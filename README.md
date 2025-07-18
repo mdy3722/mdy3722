@@ -60,7 +60,9 @@
 ---
 <img src="https://img.shields.io/badge/GitHub_Status-%20-%202A5298?style=for-the-badge&labelColor=2A5298&logo=github&&logoColor=white"/>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=react" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722&layout=compact" width="400"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mdy3722&show_icons=true&theme=react&rank_icon=percentile&border_radius=10&hide_border=false" height="200"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdy3722&layout=compact&theme=react&hide_border=false&border_radius=10" height="200"></td>
+  </tr>
+</table>
