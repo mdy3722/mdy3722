@@ -13,7 +13,7 @@
   <strong>Main Tech:</strong> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white"/> <br/>
   <strong>Interest:</strong> Backend Dev, Server/Infra Ops, Using Generative AI As a Service<br/>
   <strong>Email:</strong> <a href="mailto:mdy3722@gmail.com">mdy3722@gmail.com<br/>
-  **Blog:** [https://velog.io/@mdy3722](https://velog.io/@mdy3722/posts)
+  <strong>Blog:</strong> <a href="https://velog.io/@mdy3722/posts">https://velog.io/@mdy3722</a>
 </p>
 
 ---
